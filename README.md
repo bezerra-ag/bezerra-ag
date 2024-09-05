@@ -1,0 +1,6 @@
+- 👋 Greetings, I’m @bezerra-ag, but you can call me Álisson.
+- 👀 I’m interested in Political Science, Data Science and quantitative research.
+- 🌱 I’m currently learning R.
+- 📫 You can e-mail me via bezerraag.acad@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I’m from Brazil!
